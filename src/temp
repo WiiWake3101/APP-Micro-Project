@@ -1,0 +1,4 @@
+password.setBounds(50 , 85, 400, 30);
+            password.setText(c1);
+            password.setFont(new Font("Roboto", Font.PLAIN, 20));
+            password.setForeground(Color.BLACK);

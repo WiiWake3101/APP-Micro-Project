@@ -1,0 +1,7 @@
+Calculate.setBounds(1050 ,440, 150, 40);
+        Calculate.setBorder(BorderFactory.createEmptyBorder());
+        Calculate.setText("Calculate");
+        Calculate.setFont(new Font("Roboto", Font.BOLD, 25));
+        Calculate.setForeground(new Color(240,240, 240));
+        Calculate.setFocusable(false);
+        Calculate.addActionListener(this);
